@@ -3,7 +3,7 @@
 ![WordPress Website Designer.](https://github.com/Mohiuddin27/Mohiuddin27/blob/main/md_mohiuddin_banner_cover.png)
 ![Profile views](https://gpvc.arturio.dev/Mohiuddin27) 
 
-Hello. This is Md Mohiuddin. I am a WordPress website designer in Bangladesh. Contact me https://www.facebook.com/mohiuddin.sobuj.1426
+Hello. This is Md Mohiuddin. I am a Full Stack developer in Bangladesh. Contact me https://www.facebook.com/mohiuddin.sobuj.1426
 
 Skills: PHP / LARAVEL/ JQUERY / HTML / CSS/BOOTSTRAP/WORDPRESS/ELEMENTOR PRO/DIVI THEME/WPBAKERY
 
