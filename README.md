@@ -1,5 +1,5 @@
 ### Hi there 👋, Hey, I am Md Mohiuddin
-#### Odoo Developer | Laravel Developer | Web Designer(WordPress).
+#### Laravel Developer | Web Designer.
 ![WordPress Website Designer.](https://github.com/Mohiuddin27/Mohiuddin27/blob/main/md_mohiuddin_banner_cover.png)
 ![Profile views](https://gpvc.arturio.dev/Mohiuddin27) 
 
