@@ -1,6 +1,6 @@
 ### Hi there 👋, Hey, I am Md Mohiuddin
 #### Laravel Developer | Web Designer.
-![Laravel Developer.](https://www.linkedin.com/in/md-mohiuddin-700a0019a/overlay/background-image/)
+
 ![Profile views](https://gpvc.arturio.dev/Mohiuddin27) 
 
 Hello. This is Md Mohiuddin. I am a Full Stack developer in Bangladesh. Contact me https://www.facebook.com/mohiuddin.sobuj.1426
