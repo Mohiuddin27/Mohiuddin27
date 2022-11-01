@@ -5,7 +5,7 @@
 
 Hello. This is Md Mohiuddin. I am a Full Stack developer in Bangladesh. Contact me https://www.facebook.com/mohiuddin.sobuj.1426
 
-Skills: PHP / LARAVEL/ JQUERY / HTML / CSS/BOOTSTRAP/WORDPRESS/ELEMENTOR PRO/DIVI THEME/WPBAKERY
+Skills: HTML/CSS/BOOTSTRAP/JAVASCRIPT/JQUERY/REACTJS/PHP/LARAVEL/MYSQL/AJAX.
 
 - 🔭 I’m currently working on home 
 - 🌱 I’m currently learning PHP,LARAVEL 
