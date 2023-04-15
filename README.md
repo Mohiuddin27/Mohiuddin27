@@ -7,8 +7,8 @@ Hello. This is Md Mohiuddin. I am a Full Stack developer in Bangladesh. Contact 
 
 Skills: HTML/CSS/BOOTSTRAP/JAVASCRIPT/JQUERY/REACTJS/PHP/LARAVEL/MYSQL/AJAX.
 
-- 🔭 I’m currently working on home 
-- 🌱 I’m currently learning PHP,LARAVEL 
+- 🔭 I’m currently working on office 
+- 🌱 I’m currently learning ReactJs,AngularJs 
 - 📫 How to reach me: https://www.facebook.com/mohiuddin.sobuj.1426 
 
 
