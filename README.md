@@ -1,5 +1,5 @@
 ### Hi there 👋, Hey, I am Md Mohiuddin
-#### Laravel Developer | Web Designer.
+#### Software Engineer.
 
 ![Profile views](https://gpvc.arturio.dev/Mohiuddin27) 
 
