@@ -53,8 +53,9 @@
 ### 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Mohiuddin27&theme=github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohiuddin27&theme=github-compact" />
 </p>
+
 
 ---
 
