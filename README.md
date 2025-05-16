@@ -2,8 +2,7 @@
 <h3 align="center">Full Stack Software Engineer from Bangladesh</h3>
 
 <p align="center">
- ![Profile Views](https://komarev.com/ghpvc/?username=Mohiuddin27&label=Profile%20views&color=0e75b6&style=flat)
-
+  <img src="https://komarev.com/ghpvc/?username=Mohiuddin27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
